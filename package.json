@@ -1,0 +1,17 @@
+{
+  "name": "tut13",
+  "version": "1.0.0",
+  "description": "PostgreSQL CRUD Application - IS 445 Tutorial 13",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Carlos Caro",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "pg": "^8.20.0"
+  }
+}
